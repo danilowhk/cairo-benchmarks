@@ -9,5 +9,5 @@ version = "0.1.0"
 starknet = ">=2.1.0-rc2"
 
 
-[cairo]
-sierra-replace-ids = true
+# [cairo]
+# sierra-replace-ids = true
